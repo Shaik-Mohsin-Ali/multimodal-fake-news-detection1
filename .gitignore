@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pth
+model/bert_fake_news/checkpoint-100/
+dataset/
+static/*.jpg
+static/*.jpeg
+static/*.png
+static/*.avif
